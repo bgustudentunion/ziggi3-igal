@@ -9,7 +9,7 @@
     "postinstall": "migrate && bower install && grunt bower concat uglify apidoc"
   },
   "dependencies": {
-    "apidoc-core": "^0.4.1",
+    "apidoc-core": "^0.10.0",
     "body-parser": "^1.14.1",
     "bower": "^1.7.1",
     "cheerio": "^0.19.0",
